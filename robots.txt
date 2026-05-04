@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-ton2vs.joaocastro.online/sitemap.xml
